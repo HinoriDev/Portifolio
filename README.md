@@ -12,7 +12,7 @@ Este é o meu hub central de projetos e experiências, desenvolvido para apresen
 > **Status do Projeto:** 🟢 Ativo  
 # 🚀 Portfólio Profissional — HinoriDev
 
-> **Acesse o site oficial:** [[[https://hinoridev.github.io/Portfolio/](https://hinoridev.github.io/Portfolio/)]](https://hinoridev.github.io/Portifolio/)
+> **Acesse o site oficial:** [[(https://hinoridev.github.io/Portfolio/)]](https://hinoridev.github.io/Portifolio/)
 
 ## 🛠️ Tecnologias e Ferramentas
 
