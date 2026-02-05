@@ -10,9 +10,9 @@
 Este é o meu hub central de projetos e experiências, desenvolvido para apresentar meu trabalho de forma clara, moderna e responsiva. O site funciona como um cartão de visitas digital para recrutadores e colaboradores.
 
 > **Status do Projeto:** 🟢 Ativo  
-> **Live Demo:** [Aceda ao meu portfólio aqui]([https://hinoridev.github.io/Portfolio/)
+# 🚀 Portfólio Profissional — HinoriDev
 
----
+> **Acesse o site oficial:** [https://hinoridev.github.io/Portfolio/](https://hinoridev.github.io/Portfolio/)
 
 ## 🛠️ Tecnologias e Ferramentas
 
